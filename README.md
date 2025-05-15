@@ -27,3 +27,16 @@ This is the Assignments submission repos
 - Uses a for loop to iterate over numbers from 1 to 50.
 - Calculates the sum of all integers in this range.
 - Displays the final sum.
+
+## Assignment - 3
+## asst-3.1.py file contains the solution for the first task
+
+- Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
+- Returns the calculated factorial.
+- Calls the function with a sample number and prints the output.
+
+## asst-3.2.py file contains the solution for the second task
+
+- Asks the user for a number as input.
+- Uses the math module to calculate.
+- Displays the calculated results.
