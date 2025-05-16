@@ -40,3 +40,17 @@ This is the Assignments submission repos
 - Asks the user for a number as input.
 - Uses the math module to calculate.
 - Displays the calculated results.
+
+## Assignment - 4
+## asst-4.1.py file contains the solution for the first task
+
+- Opens and reads a text file named sample.txt.
+- Prints its content line by line.
+- Handles errors gracefully if the file does not exist.
+
+## asst-4.2.py file contains the solution for the second task
+
+- Takes user input and writes it to a file named output.txt.
+- Appends additional data to the same file.
+- Reads and displays the final content of the file.
+
